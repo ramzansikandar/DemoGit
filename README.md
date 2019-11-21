@@ -1,4 +1,5 @@
-# Django React Boilerplate
+# Django React Boilerplate\
+# For Master branch
 
 [![alt text](https://github.com/justdjango/django-react-boilerplate/blob/master/thumbnail.png "Logo")](https://youtu.be/YKYVv0gm_0o)
 
