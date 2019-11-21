@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 # Django React Boilerplate
 # Staging branch
+=======
+# Django React Boilerplate\
+>>>>>>> dev
 
 [![alt text](https://github.com/justdjango/django-react-boilerplate/blob/master/thumbnail.png "Logo")](https://youtu.be/YKYVv0gm_0o)
 
@@ -8,6 +12,7 @@ This repository contains a boilerplate project setup for Django and React. The p
 [Watch the tutorial on how to integrate Django and React](https://youtu.be/YKYVv0gm_0o)
 
 ## Backend development workflow
+## new feature implemented 1
 
 ```json
 virtualenv env
