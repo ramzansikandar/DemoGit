@@ -8,6 +8,7 @@ This repository contains a boilerplate project setup for Django and React. The p
 
 ## Backend development workflow
 ## new feature implemented 1
+# new func3
 
 ```json
 virtualenv env
