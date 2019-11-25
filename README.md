@@ -1,6 +1,7 @@
 # Django React Boilerplate\
 # This is Dev branch
 # new staging branch
+# old staging
 [![alt text](https://github.com/justdjango/django-react-boilerplate/blob/master/thumbnail.png "Logo")](https://youtu.be/YKYVv0gm_0o)
 
 This repository contains a boilerplate project setup for Django and React. The project contains backend user authentication with the Django Rest Framework and rest-auth. The frontend has react redux setup for user authentication by storing the token in localstorage.
