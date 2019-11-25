@@ -1,5 +1,5 @@
 # Django React Boilerplate
-# Staging branch
+# Staging branch - old one
 
 [![alt text](https://github.com/justdjango/django-react-boilerplate/blob/master/thumbnail.png "Logo")](https://youtu.be/YKYVv0gm_0o)
 
